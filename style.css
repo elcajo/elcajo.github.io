@@ -1,0 +1,54 @@
+body,
+html {
+	  width: 100%;
+	  height: 100%;
+	  font-family: 'Raleway', sans-serif;
+	  background: url(header.jpg) no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+h1{
+	font-size: 3rem;
+	color: #f4f5fa;
+}
+
+hr{
+	border-color: #f4f5fa;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+.buffer1{
+	height: 5rem;
+}
+.buffer2{
+	height: 10rem;
+}
+
+.btn{
+	color: #32557b;
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+
+.btn-primary{
+	background-color: #f4f5fa;
+	border-color: #f4f5fa;
+}
+
+.btn-primary:hover{
+	color: #f4f5fa
+	border-width: 4px;
+	background-color: #32557b;
+	border-color: #32557b;
+}
+
+
