@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/elcajo/elcajo.github.io/issues"
   },
-  "homepage": "https://github.com/elcajo/elcajo.github.io#readme",
+  "homepage": "https://github.com/elcajo/elcajo.github.io",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
