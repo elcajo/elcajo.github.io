@@ -1,4 +1,5 @@
 {
+  "homepage": "http://elcajo.github.io",
   "name": "elcajo.github.io",
   "version": "1.0.1",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -11,15 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elcajo/elcajo.github.io"
+    "url": "git+http://elcajo.github.io"
   },
   "keywords": [],
   "author": "Rommel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elcajo/elcajo.github.io/issues"
+    "url": "http://elcajo.github.io"
   },
-  "homepage": "https://github.com/elcajo/elcajo.github.io",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
